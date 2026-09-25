@@ -1,0 +1,8 @@
+{
+  "name": "ReplyFlow AI",
+  "description": "AI WhatsApp Business Manager for Small Businesses - Manage customer conversations, leads, orders, appointments, and follow-ups with intelligent AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
